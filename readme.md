@@ -215,3 +215,5 @@ private void mergeChunks(String fileName, int totalChunks, String uploadDir) thr
 
 ## 4. 总结
 通过使用Spring Boot和前端分片上传技术，我们可以实现高效的大文件上传。前端分片上传降低了单次上传的复杂度，提升了用户体验；后端多线程处理和文件合并的优化则大大提高了上传效率，减少了对服务器资源的占用。
+
+demo地址：https://github.com/jiangsasa/my-upload-test.git
